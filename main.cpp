@@ -1,4 +1,4 @@
-// Name: Rishit Srinivas  ID: 1722123
+// Name: Rishit Srinivas 
 #include <iostream>
 #include <fstream>
 #include <cmath>
